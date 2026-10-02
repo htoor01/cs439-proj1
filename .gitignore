@@ -1,0 +1,10 @@
+# HMDA data files (too large for GitHub)
+*.csv
+*.zip
+
+# local backup of the original notebook
+*.backup.ipynb
+
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
