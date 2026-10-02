@@ -1,2 +1,11 @@
-list of libraries (modules) used
+list of libraries (modules) used:
+- zipfile
+- io (TextIoWrapper)
+- csv (DictReader)
+- time
+- collections (defaultdict)
+- matplotlib (pyplot)
+- mysql.connector (connect, Error)
+- util (state_abbrs)
+
 Shruthi Shankar, Haaris Toor, and Mackenzie Nielsen: split coding and testing evenly, 3 ways
