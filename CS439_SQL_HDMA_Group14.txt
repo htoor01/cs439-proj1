@@ -1,0 +1,2 @@
+list of libraries (modules) used
+Shruthi Shankar, Haaris Toor, and Mackenzie Nielsen: split coding and testing evenly, 3 ways
